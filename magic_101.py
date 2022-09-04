@@ -10,3 +10,5 @@ def display_rules():
 
 def subtract(num):
     return 9 - num
+
+number_from_use = int(input("enter the last digit: "))
