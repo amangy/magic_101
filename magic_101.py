@@ -12,3 +12,4 @@ def subtract(num):
     return 9 - num
 
 number_from_use = int(input("enter the last digit: "))
+print("your answer is "+ str((subtract(number_from_use)))+"9"+str(number_from_use))
